@@ -1,0 +1,740 @@
+Uri: https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\npm\swiper@11\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\npm\swiper@11\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\ajax\libs\animate.css\4.1.1\animate.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.4/EasePack.min.js
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\ajax\libs\gsap\3.12.4\EasePack.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.4/gsap.min.js
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\ajax\libs\gsap\3.12.4\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.4/ScrollTrigger.min.js
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\ajax\libs\gsap\3.12.4\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://crave-agency.com.ua/
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.htm
+Content Type: text/html
+
+Uri: https://crave-agency.com.ua/index.php/case-1/
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\case-1\index.htm
+Content Type: text/html
+
+Uri: https://crave-agency.com.ua/index.php/case-2/
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\case-2\index.htm
+Content Type: text/html
+
+Uri: https://crave-agency.com.ua/index.php/case-3/
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\case-3\index.htm
+Content Type: text/html
+
+Uri: https://crave-agency.com.ua/index.php/case-4/
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\case-4\index.htm
+Content Type: text/html
+
+Uri: https://crave-agency.com.ua/index.php/case-5/
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\case-5\index.htm
+Content Type: text/html
+
+Uri: https://crave-agency.com.ua/index.php/case-6/
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\case-6\index.htm
+Content Type: text/html
+
+Uri: https://crave-agency.com.ua/index.php/comments/feed/
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://crave-agency.com.ua/index.php/feed/
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://crave-agency.com.ua/index.php/feedbacks/
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\feedbacks\index.htm
+Content Type: text/html
+
+Uri: https://crave-agency.com.ua/index.php/service/
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\service\index.htm
+Content Type: text/html
+
+Uri: https://crave-agency.com.ua/index.php/wp-json/
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://crave-agency.com.ua/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fcrave-agency.com.ua%2Findex.php%2Fcase-1%2F
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://crave-agency.com.ua/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fcrave-agency.com.ua%2Findex.php%2Fcase-1%2F&format=xml
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://crave-agency.com.ua/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fcrave-agency.com.ua%2Findex.php%2Fcase-2%2F
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://crave-agency.com.ua/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fcrave-agency.com.ua%2Findex.php%2Fcase-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://crave-agency.com.ua/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fcrave-agency.com.ua%2Findex.php%2Fcase-3%2F
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://crave-agency.com.ua/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fcrave-agency.com.ua%2Findex.php%2Fcase-3%2F&format=xml
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://crave-agency.com.ua/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fcrave-agency.com.ua%2Findex.php%2Fcase-4%2F
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://crave-agency.com.ua/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fcrave-agency.com.ua%2Findex.php%2Fcase-4%2F&format=xml
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://crave-agency.com.ua/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fcrave-agency.com.ua%2Findex.php%2Fcase-5%2F
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://crave-agency.com.ua/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fcrave-agency.com.ua%2Findex.php%2Fcase-5%2F&format=xml
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://crave-agency.com.ua/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fcrave-agency.com.ua%2Findex.php%2Fcase-6%2F
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://crave-agency.com.ua/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fcrave-agency.com.ua%2Findex.php%2Fcase-6%2F&format=xml
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://crave-agency.com.ua/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fcrave-agency.com.ua%2Findex.php%2Ffeedbacks%2F
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://crave-agency.com.ua/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fcrave-agency.com.ua%2Findex.php%2Ffeedbacks%2F&format=xml
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://crave-agency.com.ua/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fcrave-agency.com.ua%2Findex.php%2Fservice%2F
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://crave-agency.com.ua/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fcrave-agency.com.ua%2Findex.php%2Fservice%2F&format=xml
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://crave-agency.com.ua/index.php/wp-json/wp/v2/pages/1149
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\wp-json\wp\v2\pages\1149
+Content Type: application/json
+
+Uri: https://crave-agency.com.ua/index.php/wp-json/wp/v2/pages/1160
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\wp-json\wp\v2\pages\1160
+Content Type: application/json
+
+Uri: https://crave-agency.com.ua/index.php/wp-json/wp/v2/pages/1165
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\wp-json\wp\v2\pages\1165
+Content Type: application/json
+
+Uri: https://crave-agency.com.ua/index.php/wp-json/wp/v2/pages/1172
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\wp-json\wp\v2\pages\1172
+Content Type: application/json
+
+Uri: https://crave-agency.com.ua/index.php/wp-json/wp/v2/pages/192
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\wp-json\wp\v2\pages\192
+Content Type: application/json
+
+Uri: https://crave-agency.com.ua/index.php/wp-json/wp/v2/pages/367
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\wp-json\wp\v2\pages\367
+Content Type: application/json
+
+Uri: https://crave-agency.com.ua/index.php/wp-json/wp/v2/pages/952
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\wp-json\wp\v2\pages\952
+Content Type: application/json
+
+Uri: https://crave-agency.com.ua/index.php/wp-json/wp/v2/pages/966
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\index.php\wp-json\wp\v2\pages\966
+Content Type: application/json
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.18.3
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.18.3
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.18.3
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.18.3
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/forminator/assets/css/intlTelInput.min.css?ver=4.0.3
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\forminator\assets\css\intlTelInput.min.css
+Content Type: text/css
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/forminator/assets/forminator-ui/css/forminator-icons.min.css?ver=1.28.1
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\forminator\assets\forminator-ui\css\forminator-icons.min.css
+Content Type: text/css
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/forminator/assets/forminator-ui/css/src/forminator-utilities.min.css?ver=1.28.1
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\forminator\assets\forminator-ui\css\src\forminator-utilities.min.css
+Content Type: text/css
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/forminator/assets/forminator-ui/css/src/grid/forminator-grid.open.min.css?ver=1.28.1
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\forminator\assets\forminator-ui\css\src\grid\forminator-grid.open.min.css
+Content Type: text/css
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/forminator/assets/forminator-ui/fonts/forminator-icons-font.eot?1.7.4
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\forminator\assets\forminator-ui\fonts\forminator-icons-font.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/forminator/assets/forminator-ui/fonts/forminator-icons-font.svg?1.7.4
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\forminator\assets\forminator-ui\fonts\forminator-icons-font.svg
+Content Type: image/svg+xml
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/forminator/assets/forminator-ui/fonts/forminator-icons-font.ttf?1.7.4
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\forminator\assets\forminator-ui\fonts\forminator-icons-font.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/forminator/assets/forminator-ui/fonts/forminator-icons-font.woff2?1.7.4
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\forminator\assets\forminator-ui\fonts\forminator-icons-font.woff2
+Content Type: font/woff2
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/forminator/assets/forminator-ui/fonts/forminator-icons-font.woff?1.7.4
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\forminator\assets\forminator-ui\fonts\forminator-icons-font.woff
+Content Type: application/font-woff
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/forminator/assets/forminator-ui/js/forminator-form.min.js?ver=1.28.1
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\forminator\assets\forminator-ui\js\forminator-form.min.js
+Content Type: application/x-javascript
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/forminator/assets/img/flags.png
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\forminator\assets\img\flags.png
+Content Type: image/png
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/forminator/assets/img/flags@2x.png
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\forminator\assets\img\flags@2x.png
+Content Type: image/png
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/forminator/assets/js/library/cleave-phone.i18n.js?ver=1.28.1
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\forminator\assets\js\library\cleave-phone.i18n.js
+Content Type: application/x-javascript
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/forminator/assets/js/library/cleave.min.js?ver=1.28.1
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\forminator\assets\js\library\cleave.min.js
+Content Type: application/x-javascript
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/forminator/assets/js/library/intlTelInput.min.js?ver=1.28.1
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\forminator\assets\js\library\intlTelInput.min.js
+Content Type: application/x-javascript
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/forminator/assets/js/library/jquery.validate.min.js?ver=1.28.1
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\forminator\assets\js\library\jquery.validate.min.js
+Content Type: application/x-javascript
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/forminator/build/front/front.multi.min.js?ver=1.28.1
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\forminator\build\front\front.multi.min.js
+Content Type: application/x-javascript
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.6.23
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\header-footer-elementor\assets\css\header-footer-elementor.css
+Content Type: text/css
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/header-footer-elementor/inc/js/frontend.js?ver=1.6.23
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\header-footer-elementor\inc\js\frontend.js
+Content Type: application/x-javascript
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.23
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\header-footer-elementor\inc\widgets-css\frontend.css
+Content Type: text/css
+
+Uri: https://crave-agency.com.ua/wp-content/plugins/wpfront-scroll-top/js/wpfront-scroll-top.min.js?ver=2.2.10081
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\plugins\wpfront-scroll-top\js\wpfront-scroll-top.min.js
+Content Type: application/x-javascript
+
+Uri: https://crave-agency.com.ua/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.5.2
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\themes\astra\assets\css\minified\main.min.css
+Content Type: text/css
+
+Uri: https://crave-agency.com.ua/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.5.2
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\themes\astra\assets\js\minified\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2023/12/Group-417.png
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2023\12\Group-417.png
+Content Type: image/png
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/01/Ellipse-23-2.png
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\01\Ellipse-23-2.png
+Content Type: image/png
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/01/Ellipse-24-2.png
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\01\Ellipse-24-2.png
+Content Type: image/png
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/01/Group-448.png
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\01\Group-448.png
+Content Type: image/png
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/01/Group-457.svg
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\01\Group-457.svg
+Content Type: image/svg+xml
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/01/Group-458.svg
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\01\Group-458.svg
+Content Type: image/svg+xml
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/01/Group-77.png
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\01\Group-77.png
+Content Type: image/png
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/01/Group-80.png
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\01\Group-80.png
+Content Type: image/png
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/01/IMG_8921.jpg
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\01\IMG_8921.jpg
+Content Type: image/jpeg
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/01/IMG_8947.jpg
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\01\IMG_8947.jpg
+Content Type: image/jpeg
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/01/kaspa-scaled.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\01\kaspa-scaled.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/01/lux-salon-scaled.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\01\lux-salon-scaled.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/01/Rectangle-182.png
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\01\Rectangle-182.png
+Content Type: image/png
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/01/Rectangle-210.png
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\01\Rectangle-210.png
+Content Type: image/png
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/01/Rectangle-211.png
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\01\Rectangle-211.png
+Content Type: image/png
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/01/Rectangle-33.png
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\01\Rectangle-33.png
+Content Type: image/png
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/01/Vector-15.svg
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\01\Vector-15.svg
+Content Type: image/svg+xml
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/01/Vector-16.svg
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\01\Vector-16.svg
+Content Type: image/svg+xml
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/Варвік.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\Варвік.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/Знімок-екрана-2024-02-08-о-12.29-10@1x.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\Знімок-екрана-2024-02-08-о-12.29-10@1x.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/Знімок-екрана-2024-02-08-о-12.29-11@1x.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\Знімок-екрана-2024-02-08-о-12.29-11@1x.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/Знімок-екрана-2024-02-08-о-12.29-12@1x.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\Знімок-екрана-2024-02-08-о-12.29-12@1x.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/Знімок-екрана-2024-02-08-о-12.29-13@1x.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\Знімок-екрана-2024-02-08-о-12.29-13@1x.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/Знімок-екрана-2024-02-08-о-12.29-14@1x.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\Знімок-екрана-2024-02-08-о-12.29-14@1x.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/Знімок-екрана-2024-02-08-о-12.29-15@1x.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\Знімок-екрана-2024-02-08-о-12.29-15@1x.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/Знімок-екрана-2024-02-08-о-12.29-16@1x.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\Знімок-екрана-2024-02-08-о-12.29-16@1x.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/Знімок-екрана-2024-02-08-о-12.29-17@1x.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\Знімок-екрана-2024-02-08-о-12.29-17@1x.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/Знімок-екрана-2024-02-08-о-12.29-18@1x.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\Знімок-екрана-2024-02-08-о-12.29-18@1x.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/Знімок-екрана-2024-02-08-о-12.29-19@1x.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\Знімок-екрана-2024-02-08-о-12.29-19@1x.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/Знімок-екрана-2024-02-08-о-12.29-1@1x.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\Знімок-екрана-2024-02-08-о-12.29-1@1x.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/Знімок-екрана-2024-02-08-о-12.29-20@1x.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\Знімок-екрана-2024-02-08-о-12.29-20@1x.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/Знімок-екрана-2024-02-08-о-12.29-21@1x.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\Знімок-екрана-2024-02-08-о-12.29-21@1x.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/Знімок-екрана-2024-02-08-о-12.29-22@1x.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\Знімок-екрана-2024-02-08-о-12.29-22@1x.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/Знімок-екрана-2024-02-08-о-12.29-23@1x.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\Знімок-екрана-2024-02-08-о-12.29-23@1x.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/Знімок-екрана-2024-02-08-о-12.29-2@1x.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\Знімок-екрана-2024-02-08-о-12.29-2@1x.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/Знімок-екрана-2024-02-08-о-12.29-3@1x.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\Знімок-екрана-2024-02-08-о-12.29-3@1x.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/Знімок-екрана-2024-02-08-о-12.29-4@1x.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\Знімок-екрана-2024-02-08-о-12.29-4@1x.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/Знімок-екрана-2024-02-08-о-12.29-9@1x.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\Знімок-екрана-2024-02-08-о-12.29-9@1x.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/DSC02752-1-1-1.jpeg
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\DSC02752-1-1-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/Group-656.png
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\Group-656.png
+Content Type: image/png
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/hans-vivek-UiMkBvDQSAA-unsplash-scaled.jpg
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\hans-vivek-UiMkBvDQSAA-unsplash-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/IMG_5839.jpg
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\IMG_5839.jpg
+Content Type: image/jpeg
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/IMG_5843.jpg
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\IMG_5843.jpg
+Content Type: image/jpeg
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/IMG_7474.jpg
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\IMG_7474.jpg
+Content Type: image/jpeg
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/IMG_7475.jpg
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\IMG_7475.jpg
+Content Type: image/jpeg
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/IMG_7476.jpg
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\IMG_7476.jpg
+Content Type: image/jpeg
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/iPhone-15-Pro-Max@1x-1.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\iPhone-15-Pro-Max@1x-1.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/iPhone-15-Pro-Max@1x.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\iPhone-15-Pro-Max@1x.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/Rectangle-216.png
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\Rectangle-216.png
+Content Type: image/png
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/02/Royalsleep.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\02\Royalsleep.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/04/405@1x.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\04\405@1x.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/04/406@1x.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\04\406@1x.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/04/407@1x.webp
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\04\407@1x.webp
+Content Type: image/webp
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/04/f5274c1111c21ed19d54f34b44befecd.jpg
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\04\f5274c1111c21ed19d54f34b44befecd.jpg
+Content Type: image/jpeg
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/04/IMG_4874-scaled.jpeg
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\04\IMG_4874-scaled.jpeg
+Content Type: image/jpeg
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/04/IMG_4875.jpg
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\04\IMG_4875.jpg
+Content Type: image/jpeg
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/04/IMG_5774.png
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\04\IMG_5774.png
+Content Type: image/png
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/04/IMG_5775.png
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\04\IMG_5775.png
+Content Type: image/png
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/04/IMG_5776.png
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\04\IMG_5776.png
+Content Type: image/png
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/2024/04/superior-twin-room_wide.jpg
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\2024\04\superior-twin-room_wide.jpg
+Content Type: image/jpeg
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/elementor/css/global.css?ver=1708387154
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/elementor/css/post-66.css?ver=1708387153
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\elementor\css\post-66.css
+Content Type: text/css
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/elementor/css/post-67.css?ver=1708387154
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\elementor\css\post-67.css
+Content Type: text/css
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/elementor/css/post-90.css?ver=1708387154
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\elementor\css\post-90.css
+Content Type: text/css
+
+Uri: https://crave-agency.com.ua/wp-content/uploads/forminator/48_21d7706649ace590db30d4cb5bf95883/css/style-48.css?ver=1704997930
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-content\uploads\forminator\48_21d7706649ace590db30d4cb5bf95883\css\style-48.css
+Content Type: text/css
+
+Uri: https://crave-agency.com.ua/wp-includes/css/buttons.min.css?ver=6.4.4
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-includes\css\buttons.min.css
+Content Type: text/css
+
+Uri: https://crave-agency.com.ua/wp-includes/css/dist/block-library/style.min.css?ver=6.4.4
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://crave-agency.com.ua/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://crave-agency.com.ua/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://crave-agency.com.ua/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://crave-agency.com.ua/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Inter:400%2C600|Plus+Jakarta+Sans:600|Nunito:400&display=fallback&ver=4.5.2
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Nunito:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.4.4
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDDshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDDshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHjabf.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHcHjabf.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHcHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHjabf.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXAHjabf.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXAHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXcHjabf.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXcHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNin3AHjabf.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNin3AHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0n9TR_Q.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0n9TR_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://swiperjs.com/demos/images/nature-2.jpg
+File Name: C:\Downloaded Web Sites\crave-agency.com.ua\demos\images\nature-2.jpg
+Content Type: image/jpeg
+
